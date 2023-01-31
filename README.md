@@ -1,2 +1,2 @@
 # anyFeedback
-Declare which kinds of feedbacks your space accept.
+Declare which kinds of feedback your space accept.
